@@ -86,9 +86,12 @@ Hello! My name is Gabriela, and I am the developer behind the Book Finder App. I
 
 If you would like to contribute to the project, please fork the repository and create a pull request. Contributions, whether they be bug fixes, feature additions, or improvements to documentation, are always welcome.
 
+## Author
+@shturno
+
 ## Contact
 
-If you have any questions or feedback, feel free to reach out to me at gabrielasalvarenga2@gmail.com.
+If you have any questions or feedback, feel free to reach out to me at [email](mailto:gabriel.dsalvarenga@gmail.com)
 
 Thank you for using the Book Finder App!
 
